@@ -1,0 +1,28 @@
+why react?
+makes easy to manage & build complex frontend 
+
+when should i learn react ?
+after mastering js 
+most project dont need react in 
+
+
+react is a library
+framework is a military which behave uniformly
+library is a cool dude who acts like cool guy 
+
+topics to learn 
+1) core of react state of ui manipulation ,jsx
+2) component reuseability
+3) reusing of component (props)
+4)how to propogate change(hooks)
+
+
+additional addon to react
+1)router (react doesnt have router)
+2)state management (redux, redux toolkit,zistend,context api)
+3)class based component(legacy code)
+4)BAAS apps(backend as as service)(firebase,superbase)(social media apps)
+
+after react
+1)react is not a complete solution in most cases
+2)framework next js ,getsby,remix
